@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/logo.jpg" alt="logo" height="200"/>
+  <img src="./images/pushtx.jpg" alt="logo" height="200"/>
 </p>
 <ul/>
 Go Library for building OP_PUSH_TX Transactions
